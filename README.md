@@ -1,4 +1,4 @@
-﻿# Fine-Tune Florence-2 on Detection Placeholder
+# Fine-Tune Florence-2 on Detection Placeholder
 
 ## Description
 
